@@ -76,3 +76,25 @@ Autora
 Marcela R. dos Santos
 
 Trabalho de Conclusão de Curso – Sistemas de Informação
+
+## Demonstração da plataforma
+
+### Tela inicial
+
+![Tela inicial](documentacao/imagens_plataforma/tela_inicial.jpeg)
+
+### Cadastro de ocorrência
+
+![Cadastro de ocorrência](documentacao/imagens_plataforma/tela_cadastro_ocorrencia.jpeg)
+
+### Cadastro de parceiros
+
+![Cadastro de parceiros](documentacao/imagens_plataforma/tela_cadastro_parceiros.jpeg)
+
+### Listagem de parceiros
+
+![Listagem de parceiros](documentacao/imagens_plataforma/tela_listagem_parceiros.jpeg)
+
+### Mapa
+
+![Mapa](documentacao/imagens_plataforma/tela_mapa.jpeg)
