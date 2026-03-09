@@ -81,22 +81,17 @@ Trabalho de Conclusão de Curso – Sistemas de Informação
 
 ## Demonstração da plataforma
 
-### Tela inicial
+<p align="center">
 
-<img src="documentacao/imagens_plataforma/tela_inicial.jpeg" width="300">
+<img src="documentacao/imagens_plataforma/tela_inicial.jpeg" width="250">
+<img src="documentacao/imagens_plataforma/tela_cadastro_ocorrencia.jpeg" width="250">
+<img src="documentacao/imagens_plataforma/tela_cadastro_parceiros.jpeg" width="250">
 
-### Cadastro de ocorrência
+</p>
 
-<img src="documentacao/imagens_plataforma/tela_cadastro_ocorrencia.jpeg" width="300">
+<p align="center">
 
-### Cadastro de parceiros
+<img src="documentacao/imagens_plataforma/tela_listagem_parceiros.jpeg" width="250">
+<img src="documentacao/imagens_plataforma/tela_mapa.jpeg" width="250">
 
-<img src="documentacao/imagens_plataforma/tela_cadastro_parceiros.jpeg" width="300">
-
-### Listagem de parceiros
-
-<img src="documentacao/imagens_plataforma/tela_listagem_parceiros.jpeg" width="300">
-
-### Mapa
-
-<img src="documentacao/imagens_plataforma/tela_mapa.jpeg" width="300">
+</p>
