@@ -1,6 +1,8 @@
 # Rua Viva
 
-Plataforma desenvolvida como Trabalho de Conclusão de Curso do curso de Sistemas de Informação.
+Plataforma desenvolvida como Trabalho de Conclusão de Curso do curso de **Sistemas de Informação**.
+
+Aplicação construída em **Flutter** para registro e apoio a pessoas em situação de vulnerabilidade social.
 
 ## Sobre o projeto
 
